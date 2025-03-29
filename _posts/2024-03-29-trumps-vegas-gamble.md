@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Trump's Vegas Gamble, A Perspective From A Fellow Las Vegan"
+date: 2024-03-29
+categories: economics politics
+author: Angleito
+---
+
 **# Trump's Vegas Gamble, A Perspective From A Fellow Las Vegan**
 
 
@@ -44,5 +52,4 @@ I'll leave you with this: America's debt addiction won't be cured with half-meas
 ---
 *The author is a Gen Z crypto bro, take commentary with caution.*
 
-*(Sources cited inline; commentary reflects personal analysis)*
-
+*(Sources cited inline; commentary reflects personal analysis)* 
