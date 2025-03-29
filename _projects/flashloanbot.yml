@@ -1,0 +1,22 @@
+name: "AI-Enhanced Flashloan Bot"
+description: "Sui blockchain flashloan arbitrage bot leveraging AI for smart trade execution"
+tech_stack: [TypeScript, Sui Move, AI Tools, Blockchain]
+github: "https://github.com/Angleito/SuiFlashBotTemplate"
+private_full_version: true
+contact: "arainey555@gmail.com"
+features:
+  - Flash loan transaction execution
+  - Cross-DEX arbitrage opportunity detection
+  - AI-assisted trade execution
+  - Risk management strategies
+
+detailed_description: |
+  ## AI-Enhanced Flashloan Bot (Sui Network)
+
+  Created a flashloan arbitrage bot for the Sui blockchain, utilizing AI assistance to identify price discrepancies across decentralized exchanges and execute profitable trades within a single transaction. Used Sui Move programming language with AI guidance to ensure secure and efficient smart contract execution.
+
+  The public GitHub repository contains a simplified demo version that demonstrates the concept without revealing sensitive implementation details or making real transactions. The full version includes advanced features for production use.
+
+  ### Note
+  
+  The full implementation with advanced features is private. Please contact me at arainey555@gmail.com if you're interested in learning more about this project or discussing potential collaborations. 
