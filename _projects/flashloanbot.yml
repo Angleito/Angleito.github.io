@@ -1,7 +1,7 @@
 name: "Flashloanbot - Automated DeFi Trading on Sui"
 description: "Automated trading bot for Sui leveraging DEX aggregation and potentially flash loans for DeFi opportunities."
 tech_stack: [TypeScript, Sui, Node.js, "@mysten/sui.js", "@7kprotocol/sdk-ts", DEX Aggregation, DeFi, Automation]
-github: "https://github.com/Angleito/SuiFlashBotTemplate" # Link to demo version
+github: "https://github.com/Angleito/SuiFlashBotTemplate"
 private_full_version: true
 contact: "arainey555@gmail.com"
 features:
