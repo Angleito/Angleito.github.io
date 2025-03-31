@@ -12,48 +12,24 @@ This page contains a chronological timeline of development journal entries for t
 
 ## Timeline
 
-### March 31, 2025
-**Key Activities:**
-- Fixed type errors and reconfigured database for better performance
-- Implemented project journaling system
-- Optimized database structure for flashloan operations
-
-**Technical Improvements:**
-- Simplified database structure for faster and more maintainable operations
-- Enhanced type system implementation
-- Leveraged AI for efficient error resolution
-
-**Current Status:**
-- Preparing for early production deployment
-- Focus on real flashloan execution testing
-- Project repository restructuring needed
-
-**Next Steps:**
-- Deploy early production version
-- Test real flashloan execution
-- Clean and restructure project repository
-
-**Current Concerns:**
-- Technical debt management
-- Security implementation
-
-**Key Learnings:**
-- Improved type system management
-- AI-assisted error resolution techniques
-- Database optimization for specific use cases
-
-## Project Overview
-
-The Flashloan Project is a sophisticated financial tool designed to execute flashloan operations on the Sui blockchain. This journal documents the development process, technical decisions, and learnings throughout the project's lifecycle.
-
-## Development Philosophy
-
-Our development approach focuses on:
-- Continuous testing and validation
-- Security-first implementation
-- Performance optimization
-- Clear documentation and tracking
-
-## Future Updates
-
-This journal will be updated as new entries are created, providing a comprehensive view of the project's development journey. 
+### 2025 03 31
+  
+  ### What I Did Today
+  - Fixed many type errors as well as reconfigure database to be more practical and lightweight for the purposes of the flashloan.
+  - Implemented a journal system to document the project as I go along, should have been created earlier but there is still much to fix and configure for the full implementation of the project.
+  
+  ### Why I Made These Changes
+  Database structure was unnecessary as we only need simple token and pool ids to fetch, not a structured authenticated database of secret and secure files, made the structure faster and lighterweight on top of being easier to maintain.
+  
+  ### What I Learned
+  - How to fix types better and use ai to leverage large amount of error fixes using documentation and scripts.
+  
+  ### What's Next
+  - To run the project in early production and ensure it can execute real flashloans with this early implementation, then clean project repo to be more structured
+  
+  ### Any Blockers or Concerns?
+  -  Concerned about technical debt and weary of security handling
+  
+  ### Notes for Future Reference
+  - Test, Test, Test
+  
