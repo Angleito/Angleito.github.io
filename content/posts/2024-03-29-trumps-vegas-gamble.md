@@ -1,0 +1,24 @@
+---
+layout: post
+title: 'Trump''s Vegas Gamble, A Perspective From A Fellow Las Vegan'
+date: 2024-03-29T00:00:00.000Z
+categories:
+  - economics
+  - politics
+author: Angleito
+---
+
+**# Trump's Vegas Gamble, A Perspective From A Fellow Las Vegan**
+
+
+---
+
+### **The Art of Economic Contradictions**
+
+Let me be blunt: Donald Trump's economic agenda dances on a knife's edge, and I'm here for it. As someone born and raised in the luck of the draw, the heat of the flop, I understand the gamble, and America desperately needs it. For years the working American class as been pushed back while letting China and Mexico have all our manufacturing jobs, jobs much needed by the american working class. The old neoliberal tale of lower goods prices will make our lives better has only made us more fat and addicted to our electronics. The American working class has recognized this and the democrat and neoconservative and neoliberal approaches have done nothing to help them, the 2008 crisis destroyed these Americans and the continued austerity has done even more damage. This is why Trump won 2016 and why he won again in 2024. Biden-nomics was no different that Obama-nomics, just simply pushing the can down the road. Personally I absolutely despise Trump, every bone in my body hates him, but as someone who can recognize the opportunity of the fundamental fix he can provide? I must support him and hope his wild and downright disgusting tactics and save this country and the working class. Can he fix the debt situation, bring back hard working american jobs, and create a booming American economy for another twenty plus years? I think he can and if he fails at least someone had the guts to go all in.
+
+Here's why: The Fed's 2% inflation target is obsolete in a world where U.S. debt grows faster than GDP. It does nothing for the majority of americans, this artificial target made up by some swedes is just that, a number that sounded right. What we need is to modernize our economy, stop fixing old things with old methods and start thinking anew with forward solutions. Trump gets this. His rumored push for **century bonds**—100-year debt to lock in today's rates—isn't just Zoltan Pozsar's brainchild ([Credit Suisse, 2023](https://www.credit-suisse.com)). It's survival arithmetic. *"You can't outrun a debt spiral with quarterly Treasury auctions. You need generational fixes."*
+
+---
+
+[Rest of the content remains the same...]

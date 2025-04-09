@@ -2,7 +2,7 @@
 layout: post
 title: "SUI: BITCOIN'S VALYRIAN STEEL - WHY THIS BLOCKCHAIN KNIGHT WILL SLAUGHTER ETHEREUM AND SOLANA"
 date: 2025-03-29
-categories: crypto development
+categories: [crypto, development]
 author: Angleito
 ---
 
@@ -138,4 +138,4 @@ Winter came for the old guard. The dragons are here.
 [24] [Bitcoin Market Cap](https://coinmarketcap.com/currencies/bitcoin/)  
 [25] [Alibaba Cloud Case Study](https://www.alibabacloud.com/case-studies/sui-blockchain)  
 [26] [Sui Finality vs Traditional Payment Systems](https://twitter.com/SuiNetwork/status/1571234422116663296)  
-[27] [Sui Security Audits](https://github.com/MystenLabs/sui/tree/main/audits) 
+[27] [Sui Security Audits](https://github.com/MystenLabs/sui/tree/main/audits)
