@@ -1,41 +1,32 @@
 {
-  "name": "nextjs-portfolio",
-  "version": "0.1.0",
-  "private": true,
+  "name": "angleito-portfolio",
+  "version": "1.0.0",
+  "type": "module",
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "contentlayer build && next build",
     "start": "next start",
-    "lint": "next lint",
-    "generate-search": "node src/lib/generateSearchData.js",
-    "contentlayer:build": "contentlayer build",
     "test": "playwright test",
-    "test:ui": "playwright test --ui",
-    "test:report": "playwright show-report"
+    "test:headless": "node --experimental-modules scripts/vercel-monitor.js",
+    "connect-browser-mcp": "node --loader ts-node/esm scripts/connect-browser-mcp.ts",
+    "prepare": "husky",
+    "install-browsers": "node --experimental-modules scripts/install-browsers.js"
   },
   "dependencies": {
-    "@react-pdf/renderer": "^4.3.0",
-    "contentlayer": "latest",
-    "date-fns": "^4.1.0",
-    "gray-matter": "^4.0.3",
-    "js-yaml": "^4.1.0",
-    "next": "15.2.5",
-    "next-contentlayer": "latest",
-    "next-mdx-remote": "^5.0.0",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "react-markdown": "^10.1.0"
+    "@playwright/test": "^1.42.1",
+    "contentlayer": "0.3.4",
+    "date-fns": "^2.30.0",
+    "next": "^14.1.0",
+    "next-contentlayer": "0.3.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@eslint/eslintrc": "^3",
-    "@playwright/test": "^1.42.1",
-    "@tailwindcss/postcss": "^4",
-    "@types/node": "20.17.30",
-    "@types/react": "19.1.0",
-    "@types/react-dom": "^19",
-    "eslint": "^9",
-    "eslint-config-next": "15.2.5",
-    "tailwindcss": "^4",
-    "typescript": "5.8.3"
+    "@types/node": "^20.11.30",
+    "@types/react": "^18.2.0",
+    "husky": "^9.1.7",
+    "playwright": "^1.51.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.3"
   }
 }
