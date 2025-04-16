@@ -23,7 +23,7 @@ export default function Home() {
           Hello, I’m <span className="text-accent"><span className="name-blue">Angel Ortega-Melton</span></span>
         </h1>
         <p className="text-lg text-zinc-300 max-w-2xl mx-auto mb-6">
-          I’m a new aspiring programmer leveraging AI tools to accelerate learning and project building. With experience in Python, JavaScript, and web development fundamentals, I focus on creating innovative solutions with modern technologies. I have a strong background in customer service and operational logistics with proven ability to adapt to different environments and learn new skills quickly. I’m seeking opportunities to combine my technical learning journey and customer-focused background in a software development role.
+          I am a finance major and a software developer who utilizes and leverages AI tools for speed, efficiency, and learning. With experience in Python, JavaScript, and web development fundamentals, I focus on creating innovative solutions with modern technologies. My background in customer service and operational logistics, combined with my technical and analytical skills, allows me to adapt quickly and solve complex problems. I am passionate about combining my finance knowledge and software development expertise to build impactful projects and accelerate my learning journey.
         </p>
         <div className="flex gap-4 justify-center mb-4">
           <a href="/projects" className="bg-accent hover:bg-accent-dark text-white px-6 py-2 rounded flex items-center gap-2 transition">View Projects <Folder className="h-4 w-4" /></a>
@@ -56,12 +56,25 @@ export default function Home() {
       <section className="container mx-auto px-4 pb-12">
         <h2 className="text-2xl md:text-3xl font-bold text-white mb-8 flex items-center gap-2"><Code className="text-accent" /> Latest Projects</h2>
         <div className="grid md:grid-cols-2 gap-8">
-          {/* Sample Project */}
-          <div className="glass-card glow-effect bg-abyss-light p-6 rounded-xl shadow-lg">
-            <h3 className="text-xl font-semibold text-accent mb-2">Project Placeholder</h3>
-            <p className="text-zinc-400 mb-2">All code examples shown are simplified placeholders. For access to the real projects or more information, please <a href="mailto:arainey555@gmail.com" className="text-accent underline">contact me</a>.</p>
-          </div>
-        </div>
+  {/* Trend2Zero Project */}
+  <a href="https://github.com/Angleito/Trend2Zero" target="_blank" rel="noopener noreferrer" className="glass-card glow-effect bg-abyss-light p-6 rounded-xl shadow-lg hover:scale-[1.02] transition block" data-testid="project-card">
+    <h3 className="text-xl font-semibold text-accent mb-2">Trend2Zero</h3>
+    <p className="text-zinc-400 mb-2">Track global assets like stocks, gold, oil, and indices priced in Bitcoin. Visualize how every asset trends to zero in Bitcoin terms. Interactive charts, comprehensive data, and a true value perspective.</p>
+    <div className="text-accent-light hover:underline">View Project</div>
+  </a>
+  {/* Bluefin AI Trader Template Project */}
+  <a href="https://github.com/Angleito/bluefinaitradertemplate" target="_blank" rel="noopener noreferrer" className="glass-card glow-effect bg-abyss-light p-6 rounded-xl shadow-lg hover:scale-[1.02] transition block" data-testid="project-card">
+    <h3 className="text-xl font-semibold text-accent mb-2">bluefinaitradertemplate</h3>
+    <p className="text-zinc-400 mb-2">Template for my Bluefin AI Trader. Mock and Simulated Version of my real project.</p>
+    <div className="text-accent-light hover:underline">View Project</div>
+  </a>
+  {/* StripeMVP Project */}
+  <a href="https://github.com/Angleito/StripeMVP" target="_blank" rel="noopener noreferrer" className="glass-card glow-effect bg-abyss-light p-6 rounded-xl shadow-lg hover:scale-[1.02] transition block" data-testid="project-card">
+    <h3 className="text-xl font-semibold text-accent mb-2">StripeMVP</h3>
+    <p className="text-zinc-400 mb-2">A minimal Stripe integration MVP for learning payment processing.</p>
+    <div className="text-accent-light hover:underline">View Project</div>
+  </a>
+</div>
       </section>
 
       {/* Footer */}
