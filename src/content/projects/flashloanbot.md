@@ -4,6 +4,7 @@ description: >-
   Automated trading bot for Sui leveraging DEX aggregation and potentially flash
   loans for DeFi opportunities.
 tech_stack:
+  - Move
   - TypeScript
   - Sui
   - Node.js
