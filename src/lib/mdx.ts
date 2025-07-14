@@ -25,7 +25,7 @@ const POSTS: Post[] = [
     date: '2024-03-29',
     excerpt: 'An analysis of recent political developments in Las Vegas',
     categories: ['politics', 'economics'],
-    author: 'Angleito',
+    author: 'Angel Ortega-Melton',
     url: '/posts/trumps-vegas-gamble'
   },
   {
@@ -34,7 +34,7 @@ const POSTS: Post[] = [
     date: '2025-03-29',
     excerpt: 'Exploring blockchain technology and its potential applications',
     categories: ['crypto', 'technology'],
-    author: 'Angleito',
+    author: 'Angel Ortega-Melton',
     url: '/posts/sui-valyrian-steel'
   }
 ];

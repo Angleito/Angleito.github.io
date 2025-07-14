@@ -7,7 +7,7 @@ date: 2025-03-29T00:00:00.000Z
 categories:
   - crypto
   - development
-author: Angleito
+author: Angel Ortega-Melton
 ---
 
 # SUI: BITCOIN'S VALYRIAN STEEL - WHY THIS BLOCKCHAIN KNIGHT WILL SLAUGHTER ETHEREUM AND SOLANA  

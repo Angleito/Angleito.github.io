@@ -5,7 +5,7 @@ date: 2024-03-29T00:00:00.000Z
 categories:
   - economics
   - politics
-author: Angleito
+author: Angel Ortega-Melton
 ---
 
 **# Trump's Vegas Gamble, A Perspective From A Fellow Las Vegan**

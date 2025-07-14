@@ -5,7 +5,7 @@ date: 2025-04-01T00:00:00.000Z
 categories:
   - crypto
   - development
-author: Angleito
+author: Angel Ortega-Melton
 excerpt: Diving deeper into flashloan trading bot architecture
 ---
 
