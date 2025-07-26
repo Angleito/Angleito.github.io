@@ -10,9 +10,7 @@ categories:
 author: Angel Ortega-Melton
 ---
 
-# SUI: BITCOIN'S VALYRIAN STEEL - WHY THIS BLOCKCHAIN KNIGHT WILL SLAUGHTER ETHEREUM AND SOLANA  
-
-**Subtitle:** *In the Game of Coins, Only One Chain Wields the Sword of Scalability - And It's Not Who You Think*  
+*Subtitle: In the Game of Coins, Only One Chain Wields the Sword of Scalability - And It's Not Who You Think*
 
 ---
 
